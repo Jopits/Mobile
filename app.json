@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "learningrn",
+    "slug": "learningrn",
+    "version": "1.0.0",
+    "scheme": "your-custom-scheme",
+    "android": {
+      "package": "com.anonymous.learningrn"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "848d8a38-d5f5-43fb-bb5d-4d79ecdc02cc"
+      }
+    }
+  }
+}
